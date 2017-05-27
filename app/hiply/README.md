@@ -56,5 +56,11 @@ chmod u+x hiply
 執行下面指令，啟動
 
 ``` sh
-$ yuply
+$ hiply
 ```
+
+
+## 相關專案
+
+* [yuply](https://github.com/samwhelp/util-prototype/tree/master/app/yuply)
+* [util-chewup](https://github.com/samwhelp/util-chewup/tree/master/app/usr/lib/chewup/chewup)

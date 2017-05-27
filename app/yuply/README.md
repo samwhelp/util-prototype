@@ -57,3 +57,9 @@ chmod u+x yuply
 ``` sh
 $ yuply
 ```
+
+
+## 相關專案
+
+* [hiply](https://github.com/samwhelp/util-prototype/tree/master/app/hiply)
+* [util-chewup](https://github.com/samwhelp/util-chewup/tree/master/app/usr/lib/chewup/chewup)
