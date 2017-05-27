@@ -63,3 +63,4 @@ $ yuply
 
 * [hiply](https://github.com/samwhelp/util-prototype/tree/master/app/hiply)
 * [util-chewup](https://github.com/samwhelp/util-chewup/tree/master/app/usr/lib/chewup/chewup)
+* [demo-playlist](https://github.com/samwhelp/demo-playlist)
