@@ -5,4 +5,4 @@ Util Prototype
 ## Prototype
 
 * [hiply](app/hiply)
-* [yuply](app/hiply)
+* [yuply](app/yuply)
