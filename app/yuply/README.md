@@ -1,7 +1,8 @@
 
+
 ## 緣起
 
-* [#5 回覆: [教學] 製作 HiChannel Radio 網頁應用程式](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357580#forumpost357580)
+* [關於「m3u」和「mpv」和「smplayer」的操作使用](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357582#forumpost357582)
 
 
 ## 前置作業
@@ -38,7 +39,6 @@ $ sudo apt-get install gir1.2-webkit2-4.0
 $ sudo apt-get install gir1.2-gtk-3.0 gir1.2-keybinder-3.0 gir1.2-appindicator3-0.1 gir1.2-webkit2-4.0
 ```
 
-
 ## 下載安裝
 
 執行下面指令，下載安裝
@@ -46,10 +46,9 @@ $ sudo apt-get install gir1.2-gtk-3.0 gir1.2-keybinder-3.0 gir1.2-appindicator3-
 ``` sh
 mkdir -p ~/bin
 cd ~/bin
-wget -c https://raw.githubusercontent.com/samwhelp/util-prototype/master/app/hiply/hiply.py -O hiply
-chmod u+x hiply
+wget -c https://raw.githubusercontent.com/samwhelp/util-prototype/master/app/yuply/yuply.py -O yuply
+chmod u+x yuply
 ```
-
 
 ## 執行啟動
 

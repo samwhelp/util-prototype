@@ -1,10 +1,15 @@
 #!/usr/bin/env python3
 
+## https://github.com/samwhelp/util-prototype/blob/master/app/yuply/yuply.py
+
 ## http://python-gtk-3-tutorial.readthedocs.io/en/latest/introduction.html
 ## https://lazka.github.io/pgi-docs/index.html#Gtk-3.0
 ## https://lazka.github.io/pgi-docs/index.html#Keybinder-3.0
 ## https://lazka.github.io/pgi-docs/index.html#AppIndicator3-0.1
 ## https://lazka.github.io/pgi-docs/index.html#WebKit2-4.0
+
+## install debian package
+## $ sudo apt-get install gir1.2-gtk-3.0 gir1.2-keybinder-3.0 gir1.2-appindicator3-0.1 gir1.2-webkit2-4.0
 
 import gi
 
