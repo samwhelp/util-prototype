@@ -1,7 +1,7 @@
 
 ## 緣起討論
 
-* [url=https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357580#forumpost357580]#5 回覆: [教學] 製作 HiChannel Radio 網頁應用程式[/url]
+* [#5 回覆: [教學] 製作 HiChannel Radio 網頁應用程式](https://www.ubuntu-tw.org/modules/newbb/viewtopic.php?post_id=357580#forumpost357580)
 
 
 ## 前置作業
